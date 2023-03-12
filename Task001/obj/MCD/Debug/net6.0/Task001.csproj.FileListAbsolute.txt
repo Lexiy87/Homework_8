@@ -1,0 +1,15 @@
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\bin\MCD\Debug\net6.0\Task001.exe
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\bin\MCD\Debug\net6.0\Task001.deps.json
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\bin\MCD\Debug\net6.0\Task001.runtimeconfig.json
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\bin\MCD\Debug\net6.0\Task001.dll
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\bin\MCD\Debug\net6.0\Task001.pdb
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\obj\MCD\Debug\net6.0\Task001.csproj.AssemblyReference.cache
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\obj\MCD\Debug\net6.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\obj\MCD\Debug\net6.0\Task001.AssemblyInfoInputs.cache
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\obj\MCD\Debug\net6.0\Task001.AssemblyInfo.cs
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\obj\MCD\Debug\net6.0\Task001.csproj.CoreCompileInputs.cache
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\obj\MCD\Debug\net6.0\Task001.dll
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\obj\MCD\Debug\net6.0\refint\Task001.dll
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\obj\MCD\Debug\net6.0\Task001.pdb
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\obj\MCD\Debug\net6.0\Task001.genruntimeconfig.cache
+C:\Параллель\Мои документы\Учеба\Homework C_Lesson8\Task001\obj\MCD\Debug\net6.0\ref\Task001.dll
